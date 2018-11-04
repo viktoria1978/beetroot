@@ -1,0 +1,29 @@
+body{
+	background: #dff0d8;
+	width: 800px;
+    margin: 0;
+    padding: 10px;
+    font-size: 14px;
+    font-family: "Arial", sans-serif;
+    
+}
+	h1{
+		text-align: center;
+		color: #0088cc;
+	}
+	h2{
+		text-align: center;
+		color: red;
+	}
+	ol{
+		font-style: italic;
+	}
+
+	.footer{
+		color: orang;
+	}
+	.footer {
+	background-color:#999999;
+	color:#333333;
+	width: 500px;
+	}
